@@ -3,4 +3,12 @@ New York (CNN Business)The release of "The Facebook Papers" is a huge black eye 
 "The Facebook Papers" are a trove of internal Facebook documents based on disclosures made to the Securities and Exchange Commission and provided to Congress by whistleblower Frances Haugen's legal counsel. The redacted versions were obtained by a consortium of news 17 organizations, including CNN.
 Wall Street is clearly sending a message to Facebook: Investors are displeased with the company's direction. Shares have pulled back from their all-time highs. The stock fell 5% this past Friday alone and is now more than 15% below the peak price it hit earlier this year.
 It's just the latest in what seems like a never-ending saga of screwups and bad headlines for Facebook. Investors, lawmakers, advertisers and users are increasingly furious with Facebook, signaling it might be time for a change in leadership.
-The Wall Street Journal previously published a series of stories based on tens of thousands of pages of internal Facebook documents leaked by Haugen. (The consortium's work is based on many of the same documents.)
+The Wall Street Journal previously published a series of stories based on tens of thousands of pages of internal 
+
+
+
+
+Facebook documents leaked by Haugen. (The consortium's work is based on many of the same documents.)
+
+
+test
