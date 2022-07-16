@@ -8,9 +8,43 @@
 
     <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
     <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+    <py-env>
+    - numpy
+    - spacy
+    </py-env>
+
 </head>
 <body>
-    <py-script> name = "Scott" print(name)</py-script>
+<div id="output" class="text-4xl"></div>
+<div id="output_1" class="text-5xl"></div>
+<div id="output_2" class="text-5xl"></div>
 
+    <py-script> 
+        import math
+        import numpy as np
+
+        import spacy
+        from spacy.lang.zh.examples import sentences 
+        from spacy import displacy
+
+        arr = np.array([22,33,53,12,123])
+
+        name = "Scott" 
+        print(name)
+        
+        def getSum(x,y):
+            return x + y
+        sum = getSum(5, 7)
+        print(sum)
+        
+        pyscript.write('output', sum)
+        pyscript.write('output_1', math.sqrt(10))
+        pyscript.write('output_2', arr)
+
+
+
+    </py-script>
+<py-repl></py-repl>
 </body>
 </html>
